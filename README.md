@@ -10,7 +10,7 @@
 
 <p align="center"> I'm a Full-stack Software developer. Recently graduated for my B.Sc in computer science.
   <br>
-  passioned about Algorithms, game development and Al - specifically machine learning.
+  Passioned about Algorithms, game development and Al - specifically machine learning.
   <br>
   feel free to contact me in <b><a href="https://www.linkedin.com/in/shaiely/">Linkedin</a></b>..
 </p>
