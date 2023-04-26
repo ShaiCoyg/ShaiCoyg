@@ -8,9 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Tech%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<p align="center">Recently graduated for my B.Sc in computer science.
+<p align="center">Passioned about Algorithms, game development and Al - specifically machine learning.
   <br>
-  Passioned about Algorithms, game development and Al - specifically machine learning.
+  Recently graduated for my B.Sc in computer science.
   <br>
   feel free to contact me in <b><a href="https://www.linkedin.com/in/shaiely/">Linkedin</a></b>..
 </p>
